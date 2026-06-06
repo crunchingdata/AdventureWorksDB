@@ -1,0 +1,5 @@
+C:\Users\emili\OneDrive - Crunching Data\Data_science_projects\Databases\DP-800\Lab 7 - Implement CICD with SQL Database Projects\AdventureWorksDB\bin\Debug\AdventureWorksDB.dacpac
+C:\Users\emili\OneDrive - Crunching Data\Data_science_projects\Databases\DP-800\Lab 7 - Implement CICD with SQL Database Projects\AdventureWorksDB\obj\Debug\Model.xml
+C:\Users\emili\OneDrive - Crunching Data\Data_science_projects\Databases\DP-800\Lab 7 - Implement CICD with SQL Database Projects\AdventureWorksDB\obj\Debug\refactor.xml
+C:\Users\emili\OneDrive - Crunching Data\Data_science_projects\Databases\DP-800\Lab 7 - Implement CICD with SQL Database Projects\AdventureWorksDB\obj\Debug\postdeploy.sql
+C:\Users\emili\OneDrive - Crunching Data\Data_science_projects\Databases\DP-800\Lab 7 - Implement CICD with SQL Database Projects\AdventureWorksDB\obj\Debug\predeploy.sql
